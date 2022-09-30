@@ -1,0 +1,41 @@
+#container{
+    width: 400px;
+    background-color: rgba(244, 245, 255, 0.397);
+    padding: 20px;   
+}
+
+input{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.list{
+    margin: 15px;
+    padding-left: 0px;
+}
+
+.list > li > a{
+    padding: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+form > div{
+    padding: 2px;
+}
