@@ -2,7 +2,7 @@
 ## React-Bootstrap
 
 <p align="center">
-  <img src="/Movie-App.gif" alt="Movie-App-Gif">
+  <img src="/src/Movie-App.gif" alt="Movie-App-Gif">
 </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
