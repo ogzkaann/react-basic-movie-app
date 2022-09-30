@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Basic React Movie App with Filter
+## React-Bootstrap
+
+<p align="center">
+  <img src="/Movie-App.gif" alt="Movie-App-Gif">
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
